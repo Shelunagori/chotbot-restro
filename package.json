@@ -1,0 +1,25 @@
+{
+  "name": "chotbot-restro",
+  "version": "1.0.0",
+  "description": "Build a messenger restro chabit with nodejs and facebook",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shelunagori/chatbot-restro.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chatbot",
+    "facebook",
+    "AI"
+  ],
+  "author": "Shailendra Nagori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shelunagori/chatbot-restro/issues"
+  },
+  "homepage": "https://github.com/Shelunagori/chatbot-restro#readme"
+}
